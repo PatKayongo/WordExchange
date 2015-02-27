@@ -1,0 +1,6 @@
+[client]
+database = word_exchange
+user = root
+password = beluga
+host = localhost
+default-character-set = utf8
